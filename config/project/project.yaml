@@ -1,0 +1,22 @@
+dateModified: 1726453119
+email:
+  fromEmail: david.dinh+craft-spike2@ignitionapp.com
+  fromName: dinners
+  transportType: craft\mail\transportadapters\Sendmail
+meta:
+  __names__:
+    64257f85-1c0e-4ea9-88bc-c91afb058354: dinners # dinners
+    e17eca6a-fdc1-41eb-9464-93ca21041b35: dinners # dinners
+system:
+  edition: solo
+  live: true
+  name: dinners
+  schemaVersion: 5.3.0.2
+  timeZone: America/Los_Angeles
+users:
+  allowPublicRegistration: false
+  defaultGroup: null
+  photoSubpath: null
+  photoVolumeUid: null
+  require2fa: false
+  requireEmailVerification: true
